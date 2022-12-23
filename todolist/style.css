@@ -1,0 +1,10 @@
+.input1{
+    width: 100%;
+    height: 100%;
+}
+body{
+    background-image:linear-gradient(90deg,#3e32a8,#e310c7);
+}
+.task{
+    background-color: white;
+}
